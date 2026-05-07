@@ -1,0 +1,38 @@
+body {
+    background: #0e1117;
+    color: white;
+    font-family: 'Segoe UI';
+}
+
+.container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.card {
+    background: #161b22;
+    padding: 20px;
+    border-radius: 16px;
+    margin: 20px auto;
+    width: 400px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+button {
+    background: #00c896;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
