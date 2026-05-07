@@ -25,10 +25,10 @@ NeuroRad Vision is an AI-assisted clinical decision support system designed for 
 # 🖼️ Project Preview
 
 ## MRI Detection
-![Detection](\assets\detection.jpeg)
+![Detection](assets/detection.jpeg)
 
 ## Report Gen
-![Report](assets\report.jpeg)
+![Report](assets/report.jpeg)
 
 
 
