@@ -28,7 +28,6 @@ def load_models():
         weights=None,
         input_shape=(224,224,3)
     )
-
     x = tf.keras.layers.GlobalAveragePooling2D()(base.output)
     x = tf.keras.layers.Dense(128, activation="relu")(x)
     x = tf.keras.layers.Dropout(0.6)(x)
