@@ -28,7 +28,7 @@ NeuroRad Vision is an AI-assisted clinical decision support system designed for 
 ![Detection](\assets\detection.jpeg)
 
 ## Report Gen
-![GradCAM](assets\report.jpeg)
+![Report](assets\report.jpeg)
 
 
 
